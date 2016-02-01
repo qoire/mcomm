@@ -5,6 +5,13 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+.DS_Store
+npm-debug.log
+node_modules
+
+# Ignore checkpoints created (especially for the examples)
+.ipynb_checkpoints
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
